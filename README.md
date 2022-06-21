@@ -11,6 +11,13 @@ Here are some ideas to get you started:
  🤔 I’m looking for help ...
  💬 Ask me about ...
  📫 How to reach me: bleeqe@yahoo.com
- 😄 Pronouns: ...
+ 😄 Pronouns:She / Her
 - ⚡ Fun fact: ...
 -->
+
+
+Interested in building amazing product 🚀 + AI/ML 🤖
+
+
+Skills
+Product 🚀 | Python 🐍 | AI/ML 🤖 | Presentations 📺 | Orator 🕺
