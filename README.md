@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Titi's Github Profile
 
 
-**upperAdd/upperAdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  😄 Pronouns:She / Her
 - ⚡ Fun fact: ...
 
-
+-->!
 
 Interested in building amazing product 🚀 + AI/ML 🤖
 
