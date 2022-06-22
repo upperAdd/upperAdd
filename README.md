@@ -1,3 +1,7 @@
+[![Titi Pudjiastuti](https://raw.githubusercontent.com/upperAdd/uppperAdd/main/banner.gif "Titi Pudjiastuti")]
+
+
+
 ### Hi there 👋 This is Titi's Github Profile
 
 
