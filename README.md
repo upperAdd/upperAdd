@@ -6,7 +6,7 @@ My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootc
 
 😄 **Pronouns**: She/Her<br/>
 🌱 **Learning**: Currently learn Python include python library, SQL, Machine Learning.<br/>
-💡 **Fun fact**: I am a adventurous person, but <img src='images/Github_banner.png' alt="laid back do nothing"></img> on weekend is my most favorite moment 
+💡 **Fun fact**: I am a adventurous person, but <img src='cute-panda.webp' height = 30px alt="laid back do nothing"></img> (laid back do nothing 😄)on weekend is my most favorite moment 
 
 ## How to reach me 📫:
 <span>
