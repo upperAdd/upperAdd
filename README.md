@@ -1,5 +1,5 @@
 <!-- # Hallo! Welcome to my page! 👋 -->
-<img src='images/Github_banner.png' alt="banner"></img>
+<img src= 'HALLO.gif' alt="banner"></img>
 
 My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootcamps from The Developer Academy with a Master's of Science in Project Management degree from the [University of Birmingham ](https://www.birmingham.ac.uk/index.aspx) and more than 4 years of project management experience. I love culinary and traveling. Playing with data is my fave! Currently still learn Machine Learning etc while sharpening my programming and database skills.
 
