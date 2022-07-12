@@ -34,7 +34,11 @@ My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootc
 
 
 # Projects
-
+## Data Analysis and Visualisation
+### Data Visualization | May 2022 | [Repo](https://github.com/https://github.com/upperAdd/DV_assigment)
+<br>
+* This project aims to see the relationship between the most frequent locations with the damage that occurred. To present the data on graph, line and bar, I use a combination of Numpy, Pandas, Matplotlib, and Seaborn as Python Libraries.
+<br/>
 
 
 
