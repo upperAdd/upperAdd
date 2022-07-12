@@ -34,11 +34,34 @@ My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootc
 
 
 # Projects
+## Mini Python
+### Adventure Game | May 2022 | [Repo](https://github.com/upperAdd/Adventure-Game-DA_week-2)
+<br>
+* This project is my favourite one as this is my first project that i inspired by Alice in Wonderland that meet everyone on each stage/ book. for the green text colour is for me talk too for the white is naration text /sentence for the others colour is for anyone that i met too.
+<br/>
+
+
 ## Data Analysis and Visualisation
-### Data Visualization | May 2022 | [Repo](https://github.com/https://github.com/upperAdd/DV_assigment)
+### Data Visualization | June 2022 | [Repo](https://github.com/upperAdd/DV_assigment)
 <br>
 * This project aims to see the relationship between the most frequent locations with the damage that occurred. To present the data on graph, line and bar, I use a combination of Numpy, Pandas, Matplotlib, and Seaborn as Python Libraries.
 <br/>
+
+
+## Supervised Machine Learning
+### Linear Regression | July 2022 | [Repo](https://github.com/upperAdd/Linear-Regression-Assignment)
+<br>
+* For Flight Delay i'm using JFK Airport data to find the equation and use the simple linear regression to solved it. After several trial i believe for the data that i want to represent i dont need to use the Lasso and Ridge.
+<br/>
+
+
+## Supervised Machine Learning
+### Logistic Regression | July 2022 | [Repo](https://github.com/upperAdd/Logistic-Regression-Assignment)
+<br>
+* For this project i'm using the logistic regression and Naives bayes to predict the titanice passenger that survived.
+<br/>
+
+
 
 
 
