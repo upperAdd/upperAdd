@@ -1,5 +1,5 @@
 <!-- # Hallo! Welcome to my page! 👋 -->
-<img src= 'HALLO.gif' width="1100" height="350" alt="banner"></img>
+<img src= 'HALLO.gif' width="1000" height="350" alt="banner"></img>
 
 My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootcamps from The Developer Academy with a Master's of Science in Project Management degree from the [University of Birmingham ](https://www.birmingham.ac.uk/index.aspx) and more than 4 years of project management experience. I love culinary and traveling. Playing with data is my fave! Currently still learn Machine Learning etc while sharpening my programming and database skills.
 
@@ -34,12 +34,34 @@ My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootc
 
 
 # Projects
-## Mini Python
-### Adventure Game | May 2022 | [Repo](https://github.com/upperAdd/Adventure-Game-DA_week-2)
+## Final Project 
+### Prediction of electricity wholesale price | August 2022 | [Repo](https://github.com/upperAdd/final-project)
 <br>
-* This project is my favourite one as this is my first project that i inspired by Alice in Wonderland that meet everyone on each stage/ book. for the green text colour is for me talk too for the white is naration text /sentence for the others colour is for anyone that i met too.
+* This final project aims is to predict the electricity cost for the rest of 2022 until july 2023. To present the prediction, I use combination of Python Libraries and Machine Learning Supervised XGBoost.
 <br/>
 
+## Machine Learning Mini Project
+### Fake News detection | August 2022 | [Repo](https://github.com/upperAdd/Fake-News-)
+<br>
+* This project aims to detect fake news on published articles. To present the results, I use a combination of Python Libraries and Machine Learning random forest.
+<br/>
+
+## Neural Network Project
+### Churn Prediction | August 2022 | [Repo](https://github.com/upperAdd/Neural-Networks)
+<br>
+* This project aims to predict the customer bank that is doing churn. To present the prediction, I use a combination of Python Libraries and Machine Learning Unsupervised.
+<br/>
+ 
+## Regression Project
+### Linear Regression | July 2022 | [Repo](https://github.com/upperAdd/Linear-Regression-Assignment)
+<br>
+* For Flight Delay i'm using JFK Airport data to find the equation and use the simple linear regression to solved it. After several trial i believe for the data that i want to represent i dont need to use the Lasso and Ridge.
+<br/>
+
+### Logistic Regression | July 2022 | [Repo](https://github.com/upperAdd/Logistic-Regression-Assignment)
+<br>
+* For this project i'm using the logistic regression and Naives bayes to predict the titanice passenger that survived.
+<br/>
 
 ## Data Analysis and Visualisation
 ### Data Visualization | June 2022 | [Repo](https://github.com/upperAdd/DV_assigment)
@@ -47,19 +69,15 @@ My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootc
 * This project aims to see the relationship between the most frequent locations with the damage that occurred. To present the data on graph, line and bar, I use a combination of Numpy, Pandas, Matplotlib, and Seaborn as Python Libraries.
 <br/>
 
-
-## Supervised Machine Learning
-### Linear Regression | July 2022 | [Repo](https://github.com/upperAdd/Linear-Regression-Assignment)
+## Mini Python
+### Adventure Game | May 2022 | [Repo](https://github.com/upperAdd/Adventure-Game-DA_week-2)
 <br>
-* For Flight Delay i'm using JFK Airport data to find the equation and use the simple linear regression to solved it. After several trial i believe for the data that i want to represent i dont need to use the Lasso and Ridge.
+* This project is my favourite one as this is my first project that i inspired by Alice in Wonderland that meet everyone on each stage/ book. for the green text colour is for me talk too for the white is naration text /sentence for the others colour is for anyone that i met too.
 <br/>
 
 
-## Supervised Machine Learning
-### Logistic Regression | July 2022 | [Repo](https://github.com/upperAdd/Logistic-Regression-Assignment)
-<br>
-* For this project i'm using the logistic regression and Naives bayes to predict the titanice passenger that survived.
-<br/>
+
+
 
 
 
