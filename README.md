@@ -1,12 +1,12 @@
 <!-- # Hallo! Welcome to my page! 👋 -->
-<img src= 'HALLO.gif' width="1000" height="350" alt="banner"></img>
+<img src= 'HALLO.gif' width="990" height="350" alt="banner"></img>
 
 My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootcamps from The Developer Academy with a Master's of Science in Project Management degree from the [University of Birmingham ](https://www.birmingham.ac.uk/index.aspx) and more than 4 years of project management experience. I love culinary and traveling. Playing with data is my fave! Currently still learn Machine Learning etc while sharpening my programming and database skills.
 
 
 😄 **Pronouns**: She/Her<br/>
 🌱 **Learning**: Currently learn Python include python library, SQL, Machine Learning.<br/>
-💡 **Fun fact**: I am a adventurous person, but <img src='cute-panda.webp' height = 30px alt="laid back do nothing"></img> (laid back do nothing 😄)on weekend is my most favorite moment.<br/>
+💡 **Fun fact**: I am a adventurous person, but <img src='cute-panda.webp' height = 100px alt="laid back do nothing"></img> on weekend is my most favorite moment.<br/>
 🤔 **Inspired by Confusius " 一千里的旅程必须开始与一个单一的一步"** leads me to decide to be data scientist.<br/>
 
 ## How to reach me 📫:
