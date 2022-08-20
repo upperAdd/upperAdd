@@ -8,7 +8,7 @@ My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootc
 😄 **Pronouns**: She/Her<br/>
 🌱 **Learning**: Currently learn Python include python library, SQL, Machine Learning.<br/>
 🤔 **Inspired by Confusius " 一千里的旅程必须开始与一个单一的一步"** leads me to decide to be data scientist.<br/>
-💡 **Fun fact**: I am a adventurous person, but <img src='cute-panda.webp' height = 100px alt="laid back do nothing"></img> a.ka. Sleep on weekend is my most favorite moment 😆.<br/>
+💡 **Fun fact**: I am a adventurous person, but <img src='cute-panda.webp' height = 100px alt="laid back do nothing"></img> a.ka. SLEEP on weekend is my most favorite moment😆.<br/>
 
 ## How to reach me 📫:
 <span>
