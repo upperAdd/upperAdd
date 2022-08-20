@@ -1,7 +1,7 @@
 <!-- # Hallo! Welcome to my page! 👋 -->
 <img src= 'HALLO.gif' width="850" height="350" alt="banner"></img>
 
-My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootcamps from The Developer Academy with a Master's of Science in Project Management degree from the [University of Birmingham ](https://www.birmingham.ac.uk/index.aspx) and more than 4 years of project management experience. I love culinary and traveling. Curiosity has become my middle name! I am currently learning Machine Learning modelling to sharpen my programming and database skills.
+<p align="justify"> My name is Titi. (pronounce Tee - Tee 😄). I am a trainee data scientist bootcamps from The Developer Academy with a Master's of Science in Project Management degree from the [University of Birmingham ](https://www.birmingham.ac.uk/index.aspx) and more than 4 years of project management experience. I love culinary and traveling. Curiosity has become my middle name! I am currently learning Machine Learning modelling to sharpen my programming and database skills.</p>
 
 
 
